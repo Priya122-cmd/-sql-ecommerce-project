@@ -59,9 +59,40 @@ The business needed answers to:
 4. High volume sellers are not always high revenue sellers
    — Platform should focus on seller quality not just quantity
 
-## Dashboard
-Power BI dashboard coming soon
 
 
 
-Priya | Aspiring Data Analyst
+## Dashboard Screenshots
+
+### Page 1 — Customer & Revenue Analysis
+[Customer & Revenue Dashboard]
+
+### Page 2 — Product & Operations Analysis
+[Product & Operations Dashboard]
+
+## Key Business Insights
+
+### Customer Insights
+- 93.6% of customers never returned after first purchase
+  → Olist has a serious customer retention problem
+- São Paulo state has 40% of all customers
+  → Marketing budget should focus heavily on SP region
+
+### Revenue Insights
+- Total revenue generated $16.01 Million over 2 years
+  → Business grew consistently from 2016 to 2018
+- Credit card dominates at 73.92% of all payments
+  → Credit card users should be targeted for premium products
+
+### Operations Insights
+- 625 orders cancelled resulting in $143,260 revenue lost
+  → Cancellation reasons need to be investigated urgently
+- Sao Paulo sellers dominate the marketplace
+  → Opportunity to onboard sellers from other regions
+
+## What I Learned
+- Writing complex SQL queries across 6 relational tables
+- Data modelling in Power BI by connecting tables
+- Creating DAX measures and calculated columns
+- Translating business questions into visual insights
+- Identifying real business problems from raw data
