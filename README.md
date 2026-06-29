@@ -96,3 +96,7 @@ The business needed answers to:
 - Creating DAX measures and calculated columns
 - Translating business questions into visual insights
 - Identifying real business problems from raw data
+
+## Dashboard Preview
+![Customer Revenue Analysis](customer%20%26%20Revenue%20Analysis.png)
+![Products Operations Analysis](Products%20%26%20operations%20Analysis.png)
