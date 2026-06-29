@@ -61,15 +61,6 @@ The business needed answers to:
 
 
 
-
-## Dashboard Screenshots
-
-### Page 1 — Customer & Revenue Analysis
-[Customer & Revenue Dashboard]
-
-### Page 2 — Product & Operations Analysis
-[Product & Operations Dashboard]
-
 ## Key Business Insights
 
 ### Customer Insights
