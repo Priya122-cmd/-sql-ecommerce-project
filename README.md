@@ -49,37 +49,17 @@ The business needed answers to:
 - Q11. Most used payment methods
 - Q12. Average delivery time per state
 
-## Key Business Insights
-1. 96% of customers never returned after first purchase
-   — Olist needs a loyalty and retention program
-2. Credit card dominates with majority of all revenue
-   — Marketing should target credit card users for premium products
-3. Northern states have the highest average delivery time
-   — Logistics investment needed in North Brazil
-4. High volume sellers are not always high revenue sellers
-   — Platform should focus on seller quality not just quantity
+Key Business Insights
+Customer Insights
+93.6% of customers are one-time buyers, indicating a strong need for customer retention and loyalty programs.
+São Paulo (SP) has the highest number of customers, making it the primary market for sales and marketing efforts.
+Revenue Insights
+Total payment value reached 16.01M over the analysis period, showing steady business growth.
+Credit cards account for the majority of payments (around 78%), making them the preferred payment method.
+Operations Insights
+625 orders were cancelled, resulting in approximately 143.26K in lost revenue, highlighting the need to reduce cancellations.
+Revenue increased steadily over time, indicating consistent marketplace growth during the period analyzed.
 
-
-
-## Key Business Insights
-
-### Customer Insights
-- 93.6% of customers never returned after first purchase
-  → Olist has a serious customer retention problem
-- São Paulo state has 40% of all customers
-  → Marketing budget should focus heavily on SP region
-
-### Revenue Insights
-- Total revenue generated $16.01 Million over 2 years
-  → Business grew consistently from 2016 to 2018
-- Credit card dominates at 73.92% of all payments
-  → Credit card users should be targeted for premium products
-
-### Operations Insights
-- 625 orders cancelled resulting in $143,260 revenue lost
-  → Cancellation reasons need to be investigated urgently
-- Sao Paulo sellers dominate the marketplace
-  → Opportunity to onboard sellers from other regions
 
 ## What I Learned
 - Writing complex SQL queries across 6 relational tables
