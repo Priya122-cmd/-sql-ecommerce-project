@@ -69,5 +69,5 @@ Revenue increased steadily over time, indicating consistent marketplace growth d
 - Identifying real business problems from raw data
 
 ## Dashboard Preview
-![Customer Revenue Analysis](customer%20%26%20Revenue%20Analysis.png)
+![Customer & Revenue Analysis](Customer%20%26%20Revenue%20Analysis.png)
 ![Products Operations Analysis](Products%20%26%20operations%20Analysis.png)
